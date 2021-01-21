@@ -1,0 +1,32 @@
+
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 30;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.read-qr
+{
+  margin: 10px;
+  background-color: Transparent;
+  border: 1px slide #B7B7B7;
+ 
+}
+
+.qricon
+{
+  font-size:30px; 
+  margin:15px 30px 15px 15px;
+}
+
+.reader-video {
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
